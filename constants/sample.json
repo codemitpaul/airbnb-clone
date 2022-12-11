@@ -1,0 +1,211 @@
+[{
+        "image": "/images/0.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 390
+    },
+    {
+        "image": "/images/1.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 333
+    },
+    {
+        "image": "/images/2.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 333
+    },
+    {
+        "image": "/images/3.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 257
+    },
+    {
+        "image": "/images/4.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 219
+    },
+    {
+        "image": "/images/5.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 333
+    },
+    {
+        "image": "/images/6.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 257
+    },
+    {
+        "image": "/images/7.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 219
+    },
+    {
+        "image": "/images/8.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 371
+    },
+    {
+        "image": "/images/9.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 257
+    },
+    {
+        "image": "/images/10.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 352
+    },
+    {
+        "image": "/images/11.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 390
+    },
+    {
+        "image": "/images/12.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 371
+    },
+    {
+        "image": "/images/13.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 276
+    },
+    {
+        "image": "/images/14.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 200
+    },
+    {
+        "image": "/images/15.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 257
+    },
+    {
+        "image": "/images/16.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 352
+    },
+    {
+        "image": "/images/17.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": false,
+        "price": 276
+    },
+    {
+        "image": "/images/18.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 314
+    },
+    {
+        "image": "/images/19.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 352
+    },
+    {
+        "image": "/images/20.jpg",
+        "name": "Vis, Kroatien",
+        "street": "Gro\u00dfer Goitzscheesee",
+        "date": "5.-10. Dez.",
+        "city": "Hannover",
+        "rating": 5.0,
+        "privat": true,
+        "price": 238
+    }
+]
